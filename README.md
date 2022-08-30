@@ -21,3 +21,11 @@ Please contact us via the support server if you would like to request complete d
 # Security
 
 We take steps to ensure data provided from Titanium Security is protected from misuse, loss, alteration, or unauthorized access. However, no Internet-based system can be declared fully secure and error free.
+
+
+# How are we using your data
+
+Your data including discord username , discord I'd and discriminator is being stored. You can tell to delete your data . 
+# Request For Deletion of your data
+
+You can contact us via support server or me in my DM ``Lucifer.ly~\#3857`` on discord. From there you can tell us for deletion of your data. 
